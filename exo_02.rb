@@ -1,0 +1,1 @@
+puts("Hello world !", "Et avec une voix sexy, ça donne : Bonjour, monde !")
