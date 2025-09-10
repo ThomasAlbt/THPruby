@@ -13,5 +13,5 @@ def createEmail()
     return list
 end
 
-# createEmail()
+puts createEmail()
 # puts list
